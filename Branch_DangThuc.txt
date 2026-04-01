@@ -3,4 +3,3 @@
 3. Thêm một Commit rỗng (để test) hoặc sửa 1 đoạn chữ nhỏ xíu rồi Commit thực tế. Quan trọng là câu lệnh nhập tên:
 git commit -m "Test tự động hóa luồng DevOps cho PRJ-1"
 4. Gõ: git push
-Chờ 3 giây, mở màn hình hiển thị Task PRJ-1 trên ứng dụng React của bạn. Bạn sẽ thấy một dòng Comment lấp lánh xuất hiện!
