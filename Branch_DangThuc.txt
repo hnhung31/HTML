@@ -1,0 +1,6 @@
+1. Tạo 1 Task trên hệ thống ứng dụng của bạn, xem thử nó có mã Task Key là gì nhé (Ví dụ: PRJ-1).
+2. Quay lại giao diện máy sinh để code. Vào thư mục gốc của cái Repository đó (trong terminal hoặc Vscode).
+3. Thêm một Commit rỗng (để test) hoặc sửa 1 đoạn chữ nhỏ xíu rồi Commit thực tế. Quan trọng là câu lệnh nhập tên:
+git commit -m "Test tự động hóa luồng DevOps cho PRJ-1"
+4. Gõ: git push
+Chờ 3 giây, mở màn hình hiển thị Task PRJ-1 trên ứng dụng React của bạn. Bạn sẽ thấy một dòng Comment lấp lánh xuất hiện!
